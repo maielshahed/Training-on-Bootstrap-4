@@ -1,0 +1,40 @@
+@media (max-width:767px){
+    .upper-bar  .ofr,.upper-bar  .lr{
+      text-align: center;
+        margin: 10px;
+    }
+
+    .slider .carousel-inner h1{
+        text-align: center;
+        font-size: 25px;
+        left: 0;
+    }
+
+    .work button{
+        margin-top: 10px;
+    }
+
+    .footer .cop .mediaa{
+        margin-top: -40px;
+        text-align: center;
+    }
+    .overfiew h2{
+        font-size: 30px;
+    }
+
+    .ab h1 {
+        font-size: 120px;
+        left: 30px;
+        top: 230px;
+    }
+}
+
+@media (min-width:768px){
+    
+}
+@media (min-width:992px){
+    
+}
+@media (min-width:1200px){
+    
+}
